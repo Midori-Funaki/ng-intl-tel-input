@@ -13,11 +13,11 @@
   ],
   "dependencies": {
     "angular": "^1.2.29",
-    "intl-tel-input": "7.1.1 - 8.*"
+    "intl-tel-input": "16.0.0"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/betsol/ng-intl-tel-input.git"
+    "url": "git://github.com/Midori-Funaki/ng-intl-tel-input.git"
   },
   "keywords": [
     "betsol",
